@@ -1,4 +1,4 @@
-'React Basics'
+'React Basics JSX'
 
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
